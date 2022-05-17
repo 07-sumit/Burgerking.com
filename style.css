@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+    
+    
+    /* The colour of the indicators */
+    .blog .carousel-indicators li {
+        background: #a3a3a3;
+        border-radius: 50%;
+        width: 8px;
+        height: 8px;
+    }
+    
+    .blog .carousel-indicators .active {
+    background: #707070;
+    }
+    button{
+        background-color: orange;
+        width: 30%;
+        border: 0px;
+    
+    }
+
+   
